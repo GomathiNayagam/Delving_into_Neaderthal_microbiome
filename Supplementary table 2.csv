@@ -1,0 +1,116 @@
+ERR3579673,Negative distance proportion based on edit distance,DNA damage,,ERR3579674,Negative distance proportion based on edit distance,DNA damage,,ERR3579688,Negative distance proportion based on edit distance,DNA damage,,ERR3579745,Negative distance proportion based on edit distance,DNA damage,,ERR3579746,Negative distance proportion based on edit distance,DNA damage,,ERR3579747,Negative distance proportion based on edit distance,DNA damage,,ERR3579748,Negative distance proportion based on edit distance,DNA damage,,ERR3579753,Negative distance proportion based on edit distance,DNA damage,,ERR3579827,Negative distance proportion based on edit distance,DNA damage,,ERR3678727,Negative distance proportion based on edit distance,DNA damage,,,UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase
+50S ribosomal protein L2,1,yes,,50S ribosomal protein L4,1,yes,,30S ribosomal protein S17,1,Yes,,50S ribosomal protein L22,1,yes,,30S ribosomal protein S4,1,Yes,,50S ribosomal protein L2,1,No,,30S ribosomal protein S3,1,yes,,50S ribosomal protein L4,1,yes,,50S ribosomal protein L11,1,No,,UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase,1,No,,,50S ribosomal protein L2
+30S ribosomal protein S3,1,yes,,,,,,50S ribosomal protein L14,1,Yes,,30S ribosomal protein S14,1,yes,,50S ribosomal protein L5,1,No,,50S ribosomal protein L17,1,No,,50S ribosomal protein L22,1,yes,,preprotein translocase subunit SecE,1,yes,,,,,,50S ribosomal protein L2,1,No,,,30S ribosomal protein S9 RpsI
+30S ribosomal protein S1,1,yes,,,,,,50S ribosomal protein L34,0.953488372,No,,50S ribosomal protein L16,1,yes,,30S ribosomal protein S17,1,Yes,,30S ribosomal protein S2,1,No,,50S ribosomal protein L34,1,yes,,50S ribosomal protein L3,1,yes,,,,,,30S ribosomal protein S9 RpsI,1,No,,,single-strand binding protein
+50S ribosomal protein L3,1,yes,,,,,,acyl carrier protein,0.935483871,Yes,,50S ribosomal protein L11,1,No,,phosphoglyceromutase,1,Yes,,30S ribosomal protein S10,1,No,,30S ribosomal protein S18,1,yes,,30S ribosomal protein S2,1,yes,,,,,,single-strand binding protein,1,No,,,glucose-6-phosphate 1-dehydrogenase
+acyl carrier protein,1,yes,,,,,,50S ribosomal protein L5,0.905882353,Yes,,,,,,50S ribosomal protein L34,1,No,,30S ribosomal protein S14,1,No,,DNA-binding protein HU,1,yes,,30S ribosomal protein S17,1,yes,,,,,,glucose-6-phosphate 1-dehydrogenase,1,No,,,elongation factor Tu
+50S ribosomal protein L22,1,yes,,,,,,,,,,,,,,50S ribosomal protein L6,1,Yes,,50S ribosomal protein L34,1,No,,30S ribosomal protein S7,1,yes,,acyl carrier protein,1,yes,,,,,,elongation factor Tu,1,No,,,50S ribosomal protein L23
+30S ribosomal protein S14,1,yes,,,,,,,,,,,,,,50S ribosomal protein L14,1,Yes,,30S ribosomal protein S18,1,No,,,,,,50S ribosomal protein L22,1,yes,,,,,,50S ribosomal protein L23,1,No,,,acetyl-CoA carboxylase subunit beta
+translation initiation factor IF-1,1,No,,,,,,,,,,,,,,,,,,DNA-binding protein HU,1,No,,,,,,50S ribosomal protein L14,1,yes,,,,,,acetyl-CoA carboxylase subunit beta,1,No,,,diphosphomevalonate decarboxylase
+30S ribosomal protein S5,1,No,,,,,,,,,,,,,,,,,,30S ribosomal protein S19,1,No,,,,,,50S ribosomal protein L13,0.933333333,yes,,,,,,diphosphomevalonate decarboxylase,1,No,,,50S ribosomal protein L3 RplC
+30S ribosomal protein S12,1,yes,,,,,,,,,,,,,,,,,,50S ribosomal protein L16,1,No,,,,,,50S ribosomal protein L11,0.909090909,yes,,,,,,50S ribosomal protein L3 RplC,1,No,,,30S ribosomal protein S20 RpsT
+phosphopyruvate hydratase,1,yes,,,,,,,,,,,,,,,,,,cell division protein DivIC,1,No,,,,,,,,,,,,,,30S ribosomal protein S20 RpsT,1,No,,,translation initiation factor IF-3
+50S ribosomal protein L4,0.964912281,yes,,,,,,,,,,,,,,,,,,30S ribosomal protein S7,1,No,,,,,,,,,,,,,,translation initiation factor IF-3,1,No,,,50S ribosomal protein L20
+50S ribosomal protein L5,0.945945946,yes,,,,,,,,,,,,,,,,,,50S ribosomal protein L14,1,No,,,,,,,,,,,,,,50S ribosomal protein L20,1,No,,,Glyceraldehyde 3-phosphate dehydrogenase (phosphorylating)
+elongation factor Ts,0.939393939,yes,,,,,,,,,,,,,,,,,,preprotein translocase subunit SecG,1,No,,,,,,,,,,,,,,Glyceraldehyde 3-phosphate dehydrogenase (phosphorylating),1,No,,,protein of unknown function DUF17
+,,,,,,,,,,,,,,,,,,,,phosphopyruvate hydratase,1,No,,,,,,,,,,,,,,protein of unknown function DUF17,1,No,,,F0F1 ATP synthase subunit delta
+,,,,,,,,,,,,,,,,,,,,elongation factor Tu,0.966101695,No,,,,,,,,,,,,,,F0F1 ATP synthase subunit delta,1,No,,,30S ribosomal protein S3
+,,,,,,,,,,,,,,,,,,,,30S ribosomal protein S3,0.965517241,No,,,,,,,,,,,,,,30S ribosomal protein S3,1,No,,,phosphate ABC transporter ATP-binding protein
+,,,,,,,,,,,,,,,,,,,,50S ribosomal protein L5,0.954545455,No,,,,,,,,,,,,,,phosphate ABC transporter ATP-binding protein,1,No,,, ribosomal structure and biogenesis
+,,,,,,,,,,,,,,,,,,,,50S ribosomal protein L4,0.952380952,No,,,,,,,,,,,,,, ribosomal structure and biogenesis,1,No,,,30S ribosomal protein S4
+,,,,,,,,,,,,,,,,,,,,50S ribosomal protein L3,0.95,No,,,,,,,,,,,,,,30S ribosomal protein S4,1,No,,,50S ribosomal protein L4
+,,,,,,,,,,,,,,,,,,,,50S ribosomal protein L11,0.939393939,No,,,,,,,,,,,,,,50S ribosomal protein L4,1,No,,,50S ribosomal protein L5
+,,,,,,,,,,,,,,,,,,,,elongation factor Ts,0.9375,No,,,,,,,,,,,,,,50S ribosomal protein L5,1,No,,,DNA-binding protein HU
+,,,,,,,,,,,,,,,,,,,,fructose-bisphosphate aldolase,0.933333333,No,,,,,,,,,,,,,,DNA-binding protein HU,1,No,,,acyl carrier protein AcpP
+,,,,,,,,,,,,,,,,,,,,30S ribosomal protein S5,0.92,No,,,,,,,,,,,,,,acyl carrier protein AcpP,1,No,,,preprotein translocase subunit SecE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,preprotein translocase subunit SecE,1,No,,,single-stranded DNA-binding protein
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,single-stranded DNA-binding protein,1,No,,,50S ribosomal protein L35
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,50S ribosomal protein L35,1,No,,,ribonucleotide-diphosphate reductase subunit beta
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ribonucleotide-diphosphate reductase subunit beta,1,No,,,30S ribosomal protein S1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30S ribosomal protein S1,1,No,,,acetyl-CoA carboxylase biotin carboxylase subunit
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,acetyl-CoA carboxylase biotin carboxylase subunit,1,No,,,50S ribosomal protein L3
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,50S ribosomal protein L3,1,No,,,30S ribosomal protein S13 RpsM
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30S ribosomal protein S13 RpsM,1,No,,,30S ribosomal protein S2
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30S ribosomal protein S2,1,No,,,hypothetical protein
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,hypothetical protein,1,No,,,oligopeptide transporter
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,oligopeptide transporter,1,No,,,50S ribosomal protein L19
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,50S ribosomal protein L19,1,No,,,50S ribosomal protein L15 RplO
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,50S ribosomal protein L15 RplO,1,No,,,50S ribosomal protein L34
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,50S ribosomal protein L34,1,No,,,50S ribosomal protein L19 RplS
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,50S ribosomal protein L19 RplS,1,No,,,preprotein translocase
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,preprotein translocase,1,No,,,elongation factor G
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,elongation factor G,1,No,,,30S ribosomal protein S11
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30S ribosomal protein S11,1,No,,,penicillin-binding protein 2X
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,penicillin-binding protein 2X,1,No,,,undecaprenyl pyrophosphate synthase
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,undecaprenyl pyrophosphate synthase,1,No,,,50S ribosomal protein L10
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,50S ribosomal protein L10,1,No,,,50S ribosomal protein L2 RplB
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,50S ribosomal protein L2 RplB,1,No,,,30S ribosomal protein S10
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30S ribosomal protein S10,1,No,,,30S ribosomal protein S14
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30S ribosomal protein S14,1,No,,,acetyl-CoA carboxylase subunit alpha
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,acetyl-CoA carboxylase subunit alpha,1,No,,,30S ribosomal protein S11 RpsK
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30S ribosomal protein S11 RpsK,1,No,,,translation initiation factor IF-1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,translation initiation factor IF-1,1,No,,,D-alanyl-alanine synthetase A
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,D-alanyl-alanine synthetase A,1,No,,,50S ribosomal protein L4 RplD
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,50S ribosomal protein L4 RplD,1,No,,,ribosomal protein S1 RpsA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ribosomal protein S1 RpsA,1,No,,,elongation factor Ts
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,elongation factor Ts,1,No,,,50S ribosomal protein L13
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,50S ribosomal protein L13,1,No,,,50S ribosomal protein L14
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,50S ribosomal protein L14,1,No,,,30S ribosomal protein S5
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30S ribosomal protein S5,1,No,,,phosphoglyceromutase
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,phosphoglyceromutase,1,No,,,ATP synthase F0 B subunit AtpF
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ATP synthase F0 B subunit AtpF,1,No,,,30S ribosomal protein S4 RpsD
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30S ribosomal protein S4 RpsD,1,No,,,translation elongation factor G
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,translation elongation factor G,1,No,,,F0F1 ATP synthase subunit beta
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,50S ribosomal protein L20,1,No,,,aspartyl/glutamyl-tRNA amidotransferase subunit C
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,F0F1 ATP synthase subunit beta,1,No,,,ATP synthase F1 alpha subunit AtpA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,aspartyl/glutamyl-tRNA amidotransferase subunit C,1,No,,,50S ribosomal protein L24 RplX
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ATP synthase F1 alpha subunit AtpA,1,No,,,50S ribosomal protein L34 RpmH
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,50S ribosomal protein L24 RplX,1,No,,,50S ribosomal protein L6
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,50S ribosomal protein L34 RpmH,1,No,,,30S ribosomal protein S19
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,50S ribosomal protein L6,1,No,,,30S ribosomal protein S10 RpsJ
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DNA-binding protein HU,1,No,,,OM lipoprotein component of lipopolysaccharide assembly complex chaperone LptE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30S ribosomal protein S19,1,No,,,DNA-directed RNA polymerase alpha subunit RpoA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30S ribosomal protein S10 RpsJ,1,No,,,phosphoglycerate kinase
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OM lipoprotein component of lipopolysaccharide assembly complex chaperone LptE,1,No,,,50S ribosomal protein L16
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DNA-directed RNA polymerase alpha subunit RpoA,1,No,,,Enolase
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,phosphoglycerate kinase,1,No,,,50S ribosomal protein L11
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,50S ribosomal protein L16,1,No,,,30S ribosomal protein S18 RpsR
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Enolase,1,No,,,50S ribosomal protein L7/L12
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,50S ribosomal protein L16,1,No,,,glutaredoxin-like protein
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,50S ribosomal protein L11,1,No,,,ATP synthase F1 gamma subunit AtpG
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30S ribosomal protein S18 RpsR,1,No,,,fructose-bisphosphate aldolase
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,50S ribosomal protein L7/L12,1,No,,,30S ribosomal protein S7
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,glutaredoxin-like protein,1,No,,,glyceraldehyde 3-phosphate dehydrogenase
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ATP synthase F1 gamma subunit AtpG,1,No,,,preprotein translocase subunit SecG
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,fructose-bisphosphate aldolase,1,No,,,30S ribosomal protein S12
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30S ribosomal protein S19,1,No,,,UMP kinase
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30S ribosomal protein S7,1,No,,,ATP synthase F0 A subunit AtpB
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fructose-bisphosphate aldolase,1,No,,,phosphopyruvate hydratase
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,glyceraldehyde 3-phosphate dehydrogenase,1,No,,,ribose-phosphate pyrophosphokinase
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,50S ribosomal protein L14,1,No,,,30S ribosomal protein S17
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,preprotein translocase subunit SecG,1,No,,,50S ribosomal protein L22
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30S ribosomal protein S12,1,No,,,30S ribosomal protein S18
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,UMP kinase,1,No,,,acyl carrier protein
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ATP synthase F0 A subunit AtpB,1,No,,,thioredoxin reductase
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,phosphopyruvate hydratase,1,No,,,proton-translocating ATPase
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ribose-phosphate pyrophosphokinase,1,No,,,30S ribosomal protein S3 RpsC
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30S ribosomal protein S17,0.998165138,No,,,conserved hypothetical protein TIGR00043
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,50S ribosomal protein L22,0.998161765,No,,,cell division protein DivIC
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30S ribosomal protein S18,0.996941896,No,,,arginyl-tRNA synthetase
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,acyl carrier protein,0.994285714,No,,,50S ribosomal protein L10 RplJ
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,hypothetical protein,0.992619926,No,,,alanyl-tRNA synthetase
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,thioredoxin reductase,0.973368842,No,,,iron chelatin ABC transporter permease protein
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,proton-translocating ATPase,0.97228145,No,,,30S ribosomal protein S19 RpsS
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,50S ribosomal protein L5,0.971291866,No,,,50S ribosomal protein L18 RplR
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30S ribosomal protein S3 RpsC,0.96969697,No,,,metallo-beta-lactamase superfamily protein
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,conserved hypothetical protein TIGR00043,0.958333333,No,,,nicotinate phosphoribosyltransferase
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,cell division protein DivIC,0.957943925,No,,,50S ribosomal protein L17
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,arginyl-tRNA synthetase,0.947490347,No,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,50S ribosomal protein L10 RplJ,0.941176471,No,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,50S ribosomal protein L22,0.938461538,No,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alanyl-tRNA synthetase,0.937040923,No,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,iron chelatin ABC transporter permease protein,0.935228024,No,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30S ribosomal protein S19 RpsS,0.931034483,No,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,50S ribosomal protein L18 RplR,0.92,No,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,metallo-beta-lactamase superfamily protein,0.916167665,No,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nicotinate phosphoribosyltransferase,0.908396947,No,,,
